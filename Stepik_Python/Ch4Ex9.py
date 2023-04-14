@@ -1,6 +1,6 @@
 import requests
 
-data = open("C:\\Users\\valer\\Documents\\Python_projects\\Stepik_Python\\dataset_3378_3.txt", "r")
+data = open("C:\\Users\\user\\Documents\\Python_projects\\Stepik_Python\\dataset_3378_3.txt", "r")
 data_set = data.readlines()
 
 url = ''
